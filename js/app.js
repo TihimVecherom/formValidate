@@ -1156,7 +1156,7 @@
         rule: "required"
     } ], {
         tooltip: {
-            position: "right"
+            position: "top"
         }
     });
     window["FLS"] = true;
